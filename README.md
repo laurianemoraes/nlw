@@ -8,4 +8,3 @@
 - [x] boas práticas de conexão com bd
 - [x] processos de um projetos
 
-https://rocketseat.gallerycdn.vsassets.io/extensions/rocketseat/rocketseatreactjs/3.0.2/1588456824702/Microsoft.VisualStudio.Services.Icons.Default
